@@ -12,14 +12,18 @@ This is a simple console-based Contact Manager Application developed in Java. It
 - **Edit Contact**: Users can edit an existing contact's details such as phone number and email address.
 - **Search Contact**: Users can search for a contact by providing the name. It displays the contact details if found.
 
-## Table of Contents
+## Concepts Used
 
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- **Object-Oriented Programming (OOP)**: The project is structured using OOP principles, with classes like `Contact` representing real-world entities and encapsulating their behavior.
+
+- **Collections Framework**: Java's Collections Framework is utilized for managing and storing contact details efficiently.
+
+- **Exception Handling**: Exception handling is implemented to ensure graceful error handling during user interactions and file operations.
+
+- **Input/Output Operations**: Standard Input and Output operations are used for interacting with users via the console.
+
+- **Data Structures**: Concepts of arrays, lists, and maps are employed for storing and manipulating contact information.
+
 
 ## Requirements
 
